@@ -28,3 +28,4 @@ class LinkedList {
 }
 
 // let myLinkedList = new LinkedList(7)
+// myLinkedList(4)
