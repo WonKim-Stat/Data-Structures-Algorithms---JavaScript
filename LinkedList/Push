@@ -26,3 +26,5 @@ class LinkedList {
         return this
     }
 }
+
+// let myLinkedList = new LinkedList(7)
